@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.skill li {
+    border: 2px solid rgb(0, 0, 0);
+    margin: 2vh 30vw 2vh 30vw;
+    text-align: center;
+    border-radius: 15px;
+    list-style: none;
+    padding: 1.5vh 1.5vw;
+    background-color: black;
+    color: #ffffff;
+    font-size: x-large;
+
+}
+
+.skill li:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
